@@ -1,0 +1,4 @@
+{'destination_addresses': ['Mysuru, Karnataka, India'], 'origin_addresses': ['Bengaluru, Karnataka, India'], 'rows': [{'elements': [{'distance': {'text': '143 km', 'value': 143422}, 'duration': {'text': '2 hours 33 mins', 'value': 9205}, 'duration_in_traffic': {'text': '2 hours 27 mins', 'value': 8833}, 'status': 'OK'}]}], 'status': 'OK'}
+Distance: 143 km
+Duration: 2 hours 33 mins
+Traffic Status: OK
